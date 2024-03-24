@@ -1,1 +1,1 @@
-print("Wlazl kotek na plotek")
+print("Wlazl pies na plotek")
