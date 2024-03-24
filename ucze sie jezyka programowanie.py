@@ -1,0 +1,1 @@
+print('"Ucze sie"','"jezyka"','"Programowania"',sep="\n")
