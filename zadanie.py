@@ -1,0 +1,7 @@
+kilometry = float(input("Podaj kilometry:"))
+metry = (kilometry * 1000)
+centymetry = (metry * 100)
+mililimetry = (centymetry * 10)
+cale = (centymetry * 2.54)
+mila = (kilometry * 0.62)
+print(F"{kilometry}Km to: \n{metry}m \n{centymetry}cm \n{mililimetry}mm \n{cale}in \n{mila}M")
